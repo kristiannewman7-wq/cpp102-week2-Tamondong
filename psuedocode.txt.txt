@@ -1,0 +1,23 @@
+Activity 1:
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+Acitvity 2:
+START
+INPUT score1
+INPUT score2
+INPUT score3
+PROCESS average = (score1+score2+score3)/3
+END.
+
+Activity 3:
+START
+INPUT number
+PROCESS if number MOD 2-0 then,
+DISPLAY "Even" if not
+Display "Odd"
+END.
