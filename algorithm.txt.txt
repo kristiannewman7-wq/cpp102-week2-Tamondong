@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Input num1
+Step 3: Input num2
+Step 4: sum = num1 + num2
+Step 5: Display sum
+Step 6: End
