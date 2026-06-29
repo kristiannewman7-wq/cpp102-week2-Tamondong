@@ -1,6 +1,24 @@
+Activity #1
 Step 1: Start
 Step 2: Input num1
 Step 3: Input num2
 Step 4: sum = num1 + num2
 Step 5: Display sum
 Step 6: End
+
+Activity #2
+Step 1: Start
+Step 2: Ask the user to enter the first grade. Store it as grade1.
+Step 3: Ask the user to enter the second grade. Store it as grade2.
+Step 4: Ask the user to eneter the third grade. Store it as grade3.
+Step 5: Compute average = (grade1 + grade2 + grade3) / 3.
+Step 6: Display average
+Step 7: End.
+
+Activity #3
+Step 1: Start
+Step 2: Ask the user to enter the grade. Store it as a grade
+Step 3: Check if number MOD 2 equals 0.
+Step 4: If yes, display "Even"
+Step 5: If no, display "Odd"
+Step 6: End.
